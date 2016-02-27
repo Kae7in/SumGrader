@@ -14,8 +14,7 @@ helps avoid having to do hand calculations.
 
 ###############################################################
 # Set this to the path of all student directories
-#pathToAllStudents = "/absolute/path/to/students/..."
-pathToAllStudents = '/Users/Kaelin/Desktop/students'
+pathToAllStudents = "/absolute/path/to/students/..."
 
 # Search all students in 'pathToAllStudents' directory
 searchAllStudents = False
