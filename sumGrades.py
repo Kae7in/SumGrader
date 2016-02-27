@@ -15,10 +15,10 @@ helps avoid having to do hand calculations.
 
 ###############################################################
 # Set this to the path of all student directories
-pathToAllStudents = "/projects/cs439-norman/grading/_project0/students"
+pathToAllStudents = "/absolute/path/to/students/..."
 
 # Set this to the list of students to be graded
-studentsToBeGraded = "eab3777_jmt3855/egp374_tjk922/eo4423_tn5523/etd349_ng8336/etg355_klt2399/fb5636_swj339/fc6877_mh46868/fl4424_ktv249/fm6532_ndn225/gm25639_mw33544/hc23277_mc57874/hcg359_mt32855/hck93_tz2853/hdv242_wc7923/hm22622_vr7336/ig3885_mjs5467/itc94_jc72462/jaz747_kks942/jbg2384_rbl498/jde2245_kd9357/jl48629_sl34978/jm68634_pak682/jm76685_vg5652/jma4436_vs8495/jtt767_tsn293/jwt925_oam397/"
+studentsToBeGraded = "exampleEID1_exampleEID2/exampleEID3_exampleEID4/.../"
 
 # Set the line numbers (0-indexed) of the feedback.txt file with the actual scores to sum
 gradeLines = [0, 2, 6, 7, 9, 10, 11, 13, 16, 17]
