@@ -6,6 +6,8 @@ import linecache
 """
 SUM GRADER
 
+Author: Kaelin D. Hooper
+
 This Python script traverses all student directories, scavenging for their
 feedback.txt files, and sums the design and documentation grades in each of them.
 The result is an output pairing each student's eid with their overall grade. This
